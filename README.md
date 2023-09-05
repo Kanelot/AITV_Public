@@ -12,11 +12,13 @@ Link units with friends and family: instead of seeing art inspired by your world
 In the source directory, run:
 python not_main.py & python IRHandler.py & pythonGraphicsEngine.py &
 On my dedicated pi, I have this run on bootup. If you're interested in this feature, I recommend **crontab -e** for Linux systems
+
 P.S. For hiding my cursor on that system, I use **unclutter -idle 0.01**
 
 # Background
 
 This is an electronic art piece that's inspired by the way humans communicate. 
+
 
 AITV started as a variant of Meta's Portal (a dedicated display designed to make video calling in your home easier). With Portal, users can instantly video-call into the house of a friends or family, seeing out of a dedicated device in the room - as if they were seeing through a portal into somebody else's home; into their private life. 
 ​
@@ -25,6 +27,7 @@ It's an unnerving idea to some. I think the reason it feels that way is that whe
 
 
 But think about the human-ness in the work that entails; what we see doesn't easily become words, and I believe words can't ever complete an image. There's information loss and gain that comes with language -  firstly theres the things left unsaid by the speaker, the indescribable details, the bulk of the experience. And inversely, the listener's left with the inexorable fingerprint created by their own imagination - they can never escape the impact of their own perception when reconstructing that scene inside their head.
+
 
 In the end, when we communicate, not only is there imprecision due to the conversion to and from words, but that imprecision is a very particular, human imprecision, one that's deeply un-computer. And so the work of the project is primarily in finding a way for a computer to do it.
 
