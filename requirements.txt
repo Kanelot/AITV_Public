@@ -1,0 +1,11 @@
+colorama==0.4.6
+matplotlib==3.7.2
+openai==0.27.4
+opencv_python==4.6.0.66
+Pillow==9.3.0
+Pillow==10.0.0
+pygame==2.5.0
+python-dotenv==1.0.0
+replicate==0.4.0
+Requests==2.31.0
+tk==0.1.0
