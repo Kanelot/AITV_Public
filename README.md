@@ -8,6 +8,12 @@ AITV is a CRT TV with a webcam that makes artwork.
 Every hour, AITV recreates its art based on its surroundings. Use your IR remote to pick an art style that fits the mood.
 Link units with friends and family: instead of seeing art inspired by your world, see art inspired by theirs
 
+# How to run
+In the source directory, run:
+python not_main.py & python IRHandler.py & pythonGraphicsEngine.py &
+On my dedicated pi, I have this run on bootup. If you're interested in this feature, I recommend **crontab -e** for Linux systems
+P.S. For hiding my cursor on that system, I use **unclutter -idle 0.01**
+
 # Background
 
 This is an electronic art piece that's inspired by the way humans communicate. 
